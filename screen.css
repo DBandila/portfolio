@@ -44,8 +44,11 @@ header{
     width: auto;
 }
 #Project{
-    padding: 30px;
+    margin: 30px;
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+#Project img, #Project a, #Project p{
+    padding: 40px;
 }
