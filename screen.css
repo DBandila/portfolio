@@ -16,3 +16,7 @@ nav{
 #qualification{
     justify-content: space-between;
 }
+#ProfilePic{
+    width: 50%;
+    height: auto;
+}
