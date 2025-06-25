@@ -24,9 +24,10 @@ header{
     margin-right: 20px;
 }
 #qualification{
+    align-items: center;
     font-size: 2em;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-evenly;
 }
 #ProfilePic{
     width: 800px;
