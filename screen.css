@@ -11,9 +11,11 @@ nav{
     text-align: right;
 }
 #id{
+    display: flex;
     justify-content: space-between;
 }
 #qualification{
+    display: flex;
     justify-content: space-between;
 }
 #ProfilePic{
