@@ -1,11 +1,13 @@
 body{
-    background-color: beige;
+    background-color: rgb(2, 0, 95);
 }
 h1{
     font-size: 7em;
+    color: rgb(200, 200, 200);
 }
 h3{
     font-size: 4em;
+    color: rgb(200, 200, 200);
 }
 nav{
     font-size: 2em;
@@ -16,16 +18,19 @@ header{
     justify-content: space-evenly;
 }
 #Background{
+    
     font-size: 2em;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
 #info{
+    color: rgb(200, 200, 200);
     margin-right: 20px;
     padding: 30px;
 }
 #qualification{
+    color: rgb(200, 200, 200);
     align-items: center;
     font-size: 2em;
     display: flex;
@@ -36,6 +41,7 @@ header{
     height: auto;
 }
 #ProjectList{
+    color: rgb(200, 200, 200);
     font-size: 2em;
     justify-content: space-evenly;
 }
