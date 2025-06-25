@@ -1,11 +1,11 @@
 h1{
-    font-size: 30em;
-}
-h3{
     font-size: 15em;
 }
+h3{
+    font-size: 6em;
+}
 p{
-    font-size: 10em;
+    font-size: 5em;
 }
 nav{
     text-align: right;
