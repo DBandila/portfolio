@@ -37,6 +37,9 @@ header{
 }
 #ProjectList{
     font-size: 2em;
-    display: flex;
     justify-content: space-evenly;
+}
+#Logo{
+    height: 500px;
+    width: auto;
 }
