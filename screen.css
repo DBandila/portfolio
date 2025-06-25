@@ -1,4 +1,12 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+h1{
+    font-size: 30em;
+}
+h3{
+    font-size: 15em;
+}
+p{
+    font-size: 10em;
+}
+nav{
+    text-align: right;
 }
