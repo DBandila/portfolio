@@ -11,10 +11,12 @@ nav{
     text-align: right;
 }
 #Background{
+    font-size: 2em;
     display: flex;
     justify-content: flex-start;
 }
 #qualification{
+    font-size: 2em;
     display: flex;
     justify-content: flex-start;
 }
