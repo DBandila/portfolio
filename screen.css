@@ -1,5 +1,5 @@
 h1{
-    font-size: 10em;
+    font-size: 7em;
 }
 h3{
     font-size: 4em;
@@ -9,4 +9,10 @@ p{
 }
 nav{
     text-align: right;
+}
+#id{
+    justify-content: space-between;
+}
+#qualification{
+    justify-content: space-between;
 }
