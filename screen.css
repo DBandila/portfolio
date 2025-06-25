@@ -12,11 +12,11 @@ nav{
 }
 #id{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 #qualification{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 #ProfilePic{
     width: 50%;
