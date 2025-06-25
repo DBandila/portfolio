@@ -10,6 +10,10 @@ p{
 nav{
     text-align: right;
 }
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
 #Background{
     font-size: 2em;
     display: flex;
