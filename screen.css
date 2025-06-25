@@ -4,9 +4,6 @@ h1{
 h3{
     font-size: 4em;
 }
-p{
-    font-size: 3em;
-}
 nav{
     text-align: right;
 }
@@ -25,6 +22,6 @@ header{
     justify-content: flex-start;
 }
 #ProfilePic{
-    width: 500px;
+    width: 800px;
     height: auto;
 }
