@@ -41,7 +41,7 @@ header{
     justify-content: space-evenly;
 }
 #ProfilePic{
-    width: 40rem;
+    width: 25vw;
     height: auto;
 }
 #ProjectList{
