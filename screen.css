@@ -175,8 +175,7 @@ header{
         align-items: center;
         justify-content:space-evenly;
     }
-    #Project p{
-        padding: 20px;
+    #ProjectInfo{
         font-size: 8px;
     }
 }
