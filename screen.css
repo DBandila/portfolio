@@ -23,7 +23,7 @@ header{
 }
 #Background{
     font-size: 2rem;
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
