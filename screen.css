@@ -85,7 +85,7 @@ header{
     justify-content: space-around;
     align-items: center;
 }
-#Project a, #Project p{
+#Project p{
     padding: 40px;
     font-size: 1em;
 }
