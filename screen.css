@@ -58,6 +58,8 @@ header{
     display: block;
     margin: 0 auto;
     text-indent: -9999px;
+    height: 500px;
+    width: auto;
 }
 #Project{
     margin: 30px;
