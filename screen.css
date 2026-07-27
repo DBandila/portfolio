@@ -54,7 +54,7 @@ header{
     width: auto;
 }
 #T4T{
-    background-image: url(Images/TombforTwo.JPG);
+    content: url(Images/TombforTwo.JPG);
     height: 500px;
     width: auto;
 }
