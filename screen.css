@@ -91,3 +91,25 @@ header{
     min-font-size: 1rem;
     max-font-size: 3rem;
 }
+
+@media (max-width: 600px) {
+    body{
+        background-color: rgb(40,40,40);
+        margin: 20px;
+    }
+    h1{
+        font-size: 3em;
+        color: rgb(200, 200, 200);
+    }
+    h3{
+        font-size: 2em;
+        color: rgb(200, 200, 200);
+    }
+    nav{
+        font-size: 1em;
+        text-align: right;
+    }
+    ul{
+        list-style: none;
+    }
+}
