@@ -124,4 +124,12 @@ header{
     }
     #info{
         color: rbg(200,200,200);
+
+    #qualification{
+        color: rgb(200, 200, 200);
+        align-items: center;
+        font-size: 2em;
+        display: grid;
+        justify-content: space-evenly;
+    }
 }
