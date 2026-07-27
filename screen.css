@@ -178,6 +178,7 @@ header{
         margin: 10px;
         display: grid;
         align-items: center;
+        justify-content:space-evenly;
     }
     #Project p{
         padding: 20px;
