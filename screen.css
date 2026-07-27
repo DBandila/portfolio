@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(40,40,40);
+    background-color: rgb(20,20,20);
     margin: 60px;
 }
 h1{
@@ -93,7 +93,7 @@ header{
 
 @media (max-width: 600px) {
     body{
-        background-color: rgb(40,40,40);
+        background-color: rgb(20,20,20);
         margin: 20px;
     }
     h1{
@@ -138,5 +138,50 @@ header{
         font-size: 10px;
         display: grid;
         justify-content: space-evenly;
+    }
+        #ProjectList{
+    color: rgb(200, 200, 200);
+    font-size: 2em;
+    justify-content: space-evenly;
+    }
+    #T4T{
+        content: url(Images/TombforTwo.JPG);
+        text-indent: -9999px;
+        height: 250px;
+        width: auto;
+    }
+    #NighttailChronicles{
+        content: url(Images/NighttailChroniclesLogo.JPG);
+        text-indent: -9999px;
+        height: 250px;
+        width: auto;
+    }
+    #Labyrinth{
+        content: url(Images/LabyrinthLogo.JPG);
+        text-indent: -9999px;
+        height: 250px;
+        width: auto;
+    }
+    #KnightbyKnight{
+        content: url(Images/KnightbyNight.JPG);
+        text-indent: -9999px;
+        height: 250px;
+        width: auto;
+    }
+    #BoxPark{
+        content: url(Images/BoxParkLogo.JPG);
+        text-indent: -9999px;
+        height: 250px;
+        width: auto;
+    }
+    #Project{
+        margin: 30px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    #Project p{
+        padding: 20px;
+        font-size: 10px;
     }
 }
