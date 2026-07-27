@@ -175,9 +175,8 @@ header{
         width: auto;
     }
     #Project{
-        margin: 30px;
+        margin: 10px;
         display: grid;
-        justify-content: space-around;
         align-items: center;
     }
     #Project p{
