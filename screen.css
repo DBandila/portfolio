@@ -139,11 +139,6 @@ header{
         display: grid;
         justify-content: space-evenly;
     }
-    #ProjectList{
-        color: rgb(200, 200, 200);
-        font-size: 2em;
-        justify-content: space-evenly;
-    }
     #T4T{
         content: url(Images/TombforTwo.JPG);
         text-indent: -9999px;
