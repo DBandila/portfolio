@@ -55,6 +55,7 @@ header{
 }
 #T4T{
     content: url(Images/TombforTwo.JPG);
+    text-indent: -9999px;
     height: 500px;
     width: auto;
 }
