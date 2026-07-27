@@ -49,12 +49,32 @@ header{
     font-size: 2em;
     justify-content: space-evenly;
 }
-#Logo{
+#T4T{
+    content: url(Images/TombforTwo.JPG);
+    text-indent: -9999px;
     height: 500px;
     width: auto;
 }
-#T4T{
-    content: url(Images/TombforTwo.JPG);
+#NighttailChronicles{
+    content: url(Images/NighttailChroniclesLogo.JPG);
+    text-indent: -9999px;
+    height: 500px;
+    width: auto;
+}
+#Labyrinth{
+    content: url(Images/LabyrinthLogo.JPG);
+    text-indent: -9999px;
+    height: 500px;
+    width: auto;
+}
+#KnightbyKnight{
+    content: url(Images/KnightbyNight.JPG);
+    text-indent: -9999px;
+    height: 500px;
+    width: auto;
+}
+#BoxPark{
+    content: url(Images/BoxParkLogo.JPG);
     text-indent: -9999px;
     height: 500px;
     width: auto;
