@@ -39,7 +39,7 @@ header{
     display: flex;
     justify-content: space-evenly;
 }
-#Pic{
+#ProfilePic{
     width: 35vw;
     height: auto;
 }
