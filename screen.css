@@ -41,7 +41,7 @@ header{
     justify-content: space-evenly;
 }
 #ProfilePic{
-    width: 800px;
+    width: 40rem;
     height: auto;
 }
 #ProjectList{
@@ -112,4 +112,7 @@ header{
     ul{
         list-style: none;
     }
+    #info{
+        color: rbg(200,200,200);
+        margin-right: 10px;
 }
