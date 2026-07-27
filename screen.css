@@ -118,6 +118,9 @@ header{
     ul{
         list-style: none;
     }
+    p{
+        font-size: 6px;
+    }
     #Background{
         font-size: 10px;
         display: grid;
