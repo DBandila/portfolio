@@ -145,32 +145,32 @@ header{
     #T4T{
         content: url(Images/TombforTwo.JPG);
         text-indent: -9999px;
-        height: auto;
-        width: 100vw;
+        height: 25vh;
+        width: auto;
     }
     #NighttailChronicles{
         content: url(Images/NighttailChroniclesLogo.JPG);
         text-indent: -9999px;
-        height: auto;
-        width: 100vw;
+        height: 25vh;
+        width: auto;
     }
     #Labyrinth{
         content: url(Images/LabyrinthLogo.JPG);
         text-indent: -9999px;
-        height: auto;
-        width: 100vw;
+        height: 25vh;
+        width: auto;
     }
     #KnightbyKnight{
         content: url(Images/KnightbyNight.JPG);
         text-indent: -9999px;
-        height: auto;
-        width: 100vw;
+        height: 25vh;
+        width: auto;
     }
     #BoxPark{
         content: url(Images/BoxParkLogo.JPG);
         text-indent: -9999px;
-        height: auto;
-        width: 100vw;
+        height: 25vh;
+        width: auto;
     }
     #Project{
         margin: 10px;
