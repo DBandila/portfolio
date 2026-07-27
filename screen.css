@@ -87,7 +87,7 @@ header{
 }
 #Project p{
     padding: 40px;
-    font-size: 2em;
-    min-font-size: 1em;
-    max-font-size: 3em;
+    font-size: 2rem;
+    min-font-size: 1rem;
+    max-font-size: 3rem;
 }
