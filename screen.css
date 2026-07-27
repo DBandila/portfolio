@@ -173,7 +173,6 @@ header{
         width: auto;
     }
     #Project{
-        margin: 10px;
         display: grid;
         align-items: center;
         justify-content:space-evenly;
